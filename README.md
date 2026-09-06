@@ -86,9 +86,26 @@ location information.
 
 ## Project Structure
 
-```text
 Uber_Data_Analytics/
 │
 ├── Uber_Data_Analysis.ipynb
 ├── README.md
 └── .gitignore
+
+## Visualizations
+
+### Hourly Uber Pickup Analysis
+
+![Hourly Uber Analysis](hourly_analysis.png)
+
+### Pareto Analysis
+
+![Pareto Analysis](pareto_analysis.png)
+
+### Airport Pickup Analysis
+
+![Airport Analysis](airport_analysis.png)
+
+### Geographical Heatmap
+
+![Uber Heatmap](uber_heatmap.png)
